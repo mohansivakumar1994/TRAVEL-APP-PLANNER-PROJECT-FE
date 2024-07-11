@@ -30,6 +30,8 @@ Currently, two official plugins are available:
 
   MOST RATED CLICK TO VIEW ----> http://localhost:5173/search?sort=packageTotalRatings
 
+GITHUB PAGE ----> https://github.com/mohansivakumar1994/TRAVEL-APP-PLANNER-PROJECT-FE
+
   
 
   
