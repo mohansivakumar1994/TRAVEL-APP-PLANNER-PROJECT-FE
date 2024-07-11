@@ -12,3 +12,24 @@ Currently, two official plugins are available:
   click to view directly --->  https://app.netlify.com/sites/fantastic-raindrop-d2410f/deploys/66900f417672620e979d62ab
 
   click to view directly --->  https://main--fantastic-raindrop-d2410f.netlify.app/
+
+
+  HOME PAGE CLICK TO VIE ---> http://localhost:5173/
+
+  PACKAGES SEARCH CLICK TO VIEW ----> http://localhost:5173/search
+
+  ABOUT CLICK TO VIEW ----> http://localhost:5173/about
+
+  LOGIN CLICK TO VIEW ----> http://localhost:5173/login
+
+  BEST OFFER CLICK TO VIEW ---> http://localhost:5173/search?offer=true
+
+  TOP RATED CLICK TO VIEW ----> http://localhost:5173/search?sort=packageRating
+
+  LATEST SEARCH CLICK TO VIEW ---> http://localhost:5173/search?sort=createdAt
+
+  MOST RATED CLICK TO VIEW ----> http://localhost:5173/search?sort=packageTotalRatings
+
+  
+
+  
