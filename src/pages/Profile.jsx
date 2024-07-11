@@ -19,7 +19,7 @@ import {
   uploadBytesResumable,
 } from "firebase/storage";
 import { app } from "../firebase";
-import MyBookings from "./user/MyBookings";
+import MyBookings from "./user/MyBooking";
 import UpdateProfile from "./user/UpdateProfile";
 import MyHistory from "./user/MyHistory";
 

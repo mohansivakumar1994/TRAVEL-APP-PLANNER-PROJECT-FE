@@ -22,11 +22,11 @@ import { app } from "../../firebase";
 import AllBookings from "./AllBooking";
 import AdminUpdateProfile from "./AdminUpdateProfile";
 import AddPackages from "./AddPackages";
-import "./styles/DashboardStyle.css";
+import "./style/DashboardStyle.css";
 import AllPackages from "./AllPackages";
 import AllUsers from "./AllUsers";
 import Payments from "./Payments";
-import RatingsReviews from "./RatingsReviews";
+import RatingsReviews from "./RatingReviews";
 import History from "./History";
 
 const AdminDashboard = () => {
